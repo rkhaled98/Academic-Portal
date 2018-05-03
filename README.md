@@ -15,4 +15,18 @@ This application was developed for any student or faculty member of an academic 
 
 From a student's perspective, the application will aid in the logistical details of planning to take coursework. For example, a student will be able to, on a streamlined, cohesive web interface: see all the classes they have taken already, check for prerequisite satisfaction for an upcoming class they wish to take, make a wishlist of potential courses, and more.
 
-From a faculty member or administrator's perspective, the capabilities range more widely depending on the role of the faculty member. The focus of this application is to provide faculty who are employed to deal with students' course registration seamless and efficient. Extensions of this project can potentially include an interface for professors and other such faculty to guage potential interest in classes.
+From a faculty member or administrator's perspective, the capabilities range more widely depending on the role of the faculty member. The focus of this application is to provide faculty who are employed to deal with students' course registration seamless and efficient interface to streamline their workflow. Extensions of this project can potentially include an interface for professors and other such faculty to guage potential interest in classes.
+
+### Product Functions
+Login:
+- Enter type of user: Student or type of faculty
+- Enter login information
+- Submit information
+
+Application:
+- Students:
+  - View courses taken and currently taking
+  - Enter a course to check prerequisite satisfaction
+  - Choose to enter the course onto a wishlist
+  - Choose to enter personal notes about the course
+  - 
