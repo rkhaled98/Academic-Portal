@@ -29,4 +29,3 @@ Application:
   - Enter a course to check prerequisite satisfaction
   - Choose to enter the course onto a wishlist
   - Choose to enter personal notes about the course
-  - 
